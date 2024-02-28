@@ -1,0 +1,33 @@
+.container{
+    width: 90%;
+    height: 65vh;
+    margin: 10px;
+    overflow-x: hidden ;
+    overflow-y: scroll;
+    background-color: lightblue;
+}
+
+button{
+    width: fit-content;
+    color: black;
+    border-radius: 7%;
+    padding: 10px 30px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.input-box{
+    padding-left: 5px;
+    margin: 20px;
+    width: 70vw;
+    height: 40px;
+}
+
+p{
+    margin-left: 20px;
+    padding: 9px;
+    border-radius: 20px;
+    width: 50%;
+    background-color: white;
+}
